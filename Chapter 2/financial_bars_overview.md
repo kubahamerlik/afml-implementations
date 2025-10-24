@@ -1,4 +1,4 @@
-# Financial Data Structures - Chapter 1 Notes
+# Financial Data Structures - Chapter 2 Notes
 
 ## Why Time Bars Are Problematic
 
